@@ -1,9 +1,5 @@
 # Morris Counter Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge)
-
 A Python-based implementation and statistical analysis of the **Morris Counter**, a probabilistic data structure used to count large events using very little memory (logarithmic space). 
 
 This project explores the standard algorithm, improves its accuracy using multiple counters (mean/median averaging), generalizes the mathematical base for fine-tuned precision, and mathematically calculates the exact state probabilities.
